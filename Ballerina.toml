@@ -1,0 +1,4 @@
+[package]
+org= "lakshitha"
+name= "azureStorageTest"
+version= "0.1.0"
